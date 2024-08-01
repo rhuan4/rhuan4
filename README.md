@@ -1,6 +1,6 @@
 ## Hi there students 👋 
 
-Meu nome é ### Rhuan Fellipe P.
+Meu nome é Rhuan Fellipe P.
 
 - Estou estudando na plataforma Alura
 - Estou me desenvolvendo na linguagem  JavasCript
