@@ -2,7 +2,7 @@
 
 Meu nome é Rhuan Fellipe P.
 
-- Estou estudando na plataforma Alura
+- Estou estudando na plataforma (https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem  JavasCript
 - Utilizo esse espaço para minha organização  e compartilhamento dos meus projetos desenvolvidos !
 
